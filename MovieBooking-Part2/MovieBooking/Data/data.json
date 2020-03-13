@@ -1,0 +1,404 @@
+{
+    "trending": [
+        {
+            "id": 1,
+            "title": "Star Wars: The Rise of Skywalker",
+            "releaseDate": "December 16, 2019",
+            "description": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "image": "starwars",
+            "rating": 3.4,
+            "genres": ["Action", "Adventure", "Sci-fi"],
+            "runtime": "2h 22m"
+        },{
+            "id": 2,
+            "title": "Jumanji: The Next Level ",
+            "releaseDate": "December 13, 2019",
+            "description": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+            "image": "jumanji",
+            "rating": 3.4,
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+            "runtime": "2h 3m"
+        }, {
+            "id": 3,
+            "title": "Frozen II",
+            "releaseDate": "November 22, 2019",
+            "description": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+            "image": "frozen2",
+            "rating": 3.5,
+            "genres": ["Adventure", "Music", "Animation", "Family"],
+            "runtime": "1h 44m"
+        }, {
+            "id": 4,
+            "title": "Bombshell",
+            "releaseDate": "December 13, 2019",
+            "description": "Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+            "image": "bombshell",
+            "rating": 3.2,
+            "genres": ["Drama"],
+            "runtime": "1h 48m"
+        }, {
+            "id": 5,
+            "title": "Code 8",
+            "releaseDate": "December 13, 2019",
+            "description": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)",
+            "image": "code_8",
+            "rating": 3.4,
+            "genres": ["Sci-fi", "Drama", "Thriller", "Crime", "Action"],
+            "runtime": "1h 39m"
+        }, {
+            "id": 6,
+            "title": "Spies in Disguise",
+            "releaseDate": " December 4, 2019",
+            "description": "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
+            "image": "spiesindisguise",
+            "rating": 4.0,
+            "genres": ["Animation", "Adventure", "Action"],
+            "runtime": "2h 42m"
+        }, {
+            "id": 7,
+            "title": "Ip Man 4: The Finale",
+            "releaseDate": "December 25, 2019",
+            "description": "Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.",
+            "image": "ipman4",
+            "rating": 0,
+            "genres": ["Action", "Drama", "History"],
+            "runtime": "-"
+        }, {
+            "id": 8,
+            "title": "Uncut Gems",
+            "releaseDate": "August 30, 2019",
+            "description": "Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.",
+            "image": "uncutgems",
+            "rating": 3.85,
+            "genres": ["Crime", "Thriller", "Commedy"],
+            "runtime": "1h 29m"
+        }, {
+            "id": 9,
+            "title": "Knives Out",
+            "releaseDate": "November 27, 2019",
+            "description": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "image": "knivesout",
+            "rating": 4,
+            "genres": ["Mystery", "Thriller", "Comedy"],
+            "runtime": "2h 10m"
+        }, {
+            "id": 10,
+            "title": "Cats",
+            "releaseDate": "December 16, 2019",
+            "description": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+            "image": "cats",
+            "rating": 2.75,
+            "genres": ["Music", "Drama", "Fantasy", "Comedy"],
+            "runtime": "2h 49m"
+        }],
+    "popular": [{
+        "id": 1,
+        "title": "Jumanji: The Next Level ",
+        "releaseDate": "December 13, 2019",
+        "description": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+        "image": "jumanji",
+        "rating": 3.4,
+        "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+        "runtime": "2h 3m"
+    }, {
+        "id": 2,
+        "title": "Frozen II",
+        "releaseDate": "November 22, 2019",
+        "description": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+        "image": "frozen2",
+        "rating": 3.5,
+        "genres": ["Adventure", "Music", "Animation", "Family"],
+        "runtime": "1h 44m"
+    }, {
+        "id": 3,
+        "title": "Ad Astra",
+        "releaseDate": "September 20, 2019",
+        "description": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+        "image": "adastra",
+        "rating": 3.1,
+        "genres": ["Sci-fi", "Drama", "Thriller", "Adventure", "Mystery"],
+        "runtime": "2h 3m"
+    }, {
+        "id": 4,
+        "title": "Joker",
+        "releaseDate": "October 4, 2019",
+        "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "image": "joker",
+        "rating": 4.2,
+        "genres": ["Crime", "Thriller", "Drama"],
+        "runtime": "2h 2m"
+    }, {
+        "id": 5,
+        "title": "Once Upon a Time… in Hollywood",
+        "releaseDate": "July 26, 2019",
+        "description": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specialized in westerns, and stuntman Cliff Booth, his best friend, try to survive to a constantly changing movie industry. Dalton is neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+        "image": "outih",
+        "rating": 3.8,
+        "genres": ["drama", "comedy", "Thriller"],
+        "runtime": "2h 42m"
+    }, {
+        "id": 6,
+        "title": "Marriage story",
+        "releaseDate": "November 6, 2019",
+        "description": "A stage director and an actor struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+        "image": "marriagestory",
+        "rating": 4.1,
+        "genres": ["Drama", "Romance"],
+        "runtime": "2h 16m"
+    }, {
+        "id": 7,
+        "title": "Ip Man 4: The Finale",
+        "releaseDate": "December 25, 2019",
+        "description": "Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.",
+        "image": "ipman4",
+        "rating": 0,
+        "genres": ["Action", "Drama", "History"],
+        "runtime": "-"
+    }, {
+        "id": 8,
+        "title": "Rambo: Last Blood",
+        "releaseDate": " September 20, 2019",
+        "description": "After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.",
+        "image": "rambo",
+        "rating": 3,
+        "genres": ["Action", "Thriller", "Drama"],
+        "runtime": "1h 29m"
+    }, {
+        "id": 9,
+        "title": "Knives Out",
+        "releaseDate": "November 27, 2019",
+        "description": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+        "image": "knivesout",
+        "rating": 4,
+        "genres": ["Mystery", "Thriller", "Comedy"],
+        "runtime": "2h 10m"
+    }, {
+        "id": 10,
+        "title": "It Chapter Two ",
+        "releaseDate": "September 6, 2019",
+        "description": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+        "image": "it2",
+        "rating": 3.4,
+        "genres": ["Horror", "Drama", "Fantasy"],
+        "runtime": "2h 49m"
+    }],
+    "actors": [{
+        "id": 1,
+        "name": "Scarlett Johansson ",
+        "bio": "Scarlett Johansson, born November 22, 1984, is an American actress, model and singer. She made her film debut in North (1994) and was later nominated for the Independent Spirit Award for Best Female Lead for her performance in Manny & Lo (1996), garnering further acclaim and prominence with roles in The Horse Whisperer (1998) and Ghost World (2001). She shifted to adult roles with her performances in Girl with a Pearl Earring (2003) and Sofia Coppola's Lost in Translation (2003), for which she won a BAFTA award for Best Actress in a Leading Role; both films earned her Golden Globe Award nominations as well…",
+        "image": "scarlJohan.jpg"
+    }, {
+        "id": 2,
+        "name": "Cho Yeo-jeong ",
+        "bio": "Cho Yeo-jeong (조여정) is a South Korean actress. Born on February 10, 1981, she began her career as a model in 1997 at the age of 16 and launched her acting career two years later. She is best known for her roles in the provocative period films “The Servant” (2010) and “The Concubine” (2012) and the television dramas “I Need Romance” (2011), “Haeundae Lovers” (2012), “Divorce Lawyer in Love” (2015) and “Perfect Wife” (2017).",
+        "image": "choyeo.jpg",
+        "rating": "4",
+        "genres": ["drama", "comedy"],
+        "runtime": "125"
+    }, {
+        "id": 3,
+        "name": "Henry Cavill",
+        "bio": "Henry William Dalgliesh Cavill (born 5 May 1983) is a British actor. He has appeared in the films The Count of Monte Cristo and Stardust, and played the role of Charles Brandon, 1st Duke of Suffolk, on the Showtime series The Tudors, from 2007 until 2010. He has been cast in the DC Extended Universe as Superman with the 2013 film Man of Steel.",
+        "image": "henrycavil.jpg"
+    }, {
+        "id": 4,
+        "name": "Brad Pitt ",
+        "bio": "bio",
+        "image": "bradpitt.jpg"
+    }, {
+        "id": 5,
+        "name": "Rose Byrne",
+        "bio": "Mary Rose Byrne (born 24 July 1979) is an Australian actress. Byrne made her screen debut in 1994 with a small role in the film Dallas Doll. In 2000, she played a leading role in the Australian film The Goddess of 1967, which brought her a Venice Film Festival award for Best Actress. Since 2007, she has played Ellen Parsons in the cable television series Damages, which has earned her two Golden Globe and two Emmy nominations. In 2011, she starred in the critically acclaimed and financially successful films Insidious, X-Men: First Class and Bridesmaids…",
+        "image": "rosebyrne.jpg"
+    }, {
+        "id": 6,
+        "name": "Rebecca Ferguson ",
+        "bio": "Rebecca Louisa Ferguson Sundström (born 19 October 1983), known professionally as Rebecca Ferguson, is a Swedish actress. She played the lead role in the soap-opera Nya tider and later played Chrissy in the Swedish-American soap Ocean Ave.. Ferguson has also appeared in movies, including A One-Way Trip to Antibes, the horror film Strandvaskaren and the upcoming film Vi alongside Gustaf Skarsgård. Ferguson's role in The White Queen has been met with some praise. …",
+        "image": "rebeccaferguson.jpg"
+    }, {
+        "id": 7,
+        "name": "Dwayne Johnson ",
+        "bio": "An American and Canadian actor, producer and semi-retired professional wrestler, signed with WWE.  Johnson is half-Black and half-Samoan. His father, Rocky Johnson, is a Black Canadian, from Nova Scotia, and part of the first Black tag team champions in WWE history back when it was known as the WWF along with Tony Atlas. His mother is Samoan and the daughter of Peter Maivia, who was also a pro wrestler. Maivia's wife, Lia Maivia, was one of wrestling's few female promoters, taking over Polynesian Pacific Pro Wrestling after her husband's death in 1982, until 1988. Through his mother, he is considered a non-blood relative of the Anoa'i wrestling family. On March 29, 2008, The Rock inducted his father and his grandfather into the WWE Hall of Fame.",
+        "image": "dwaynejohnson.jpg"
+    }, {
+        "id": 8,
+        "name": "Keanu Reeves ",
+        "bio": "Keanu Charles Reeves is a Canadian actor. Reeves is known for his roles in Bill & Ted's Excellent Adventure, Speed, Point Break, and The Matrix trilogy as Neo. He has collaborated with major directors such as Stephen Frears (in the 1988 period drama Dangerous Liaisons); Gus Van Sant (in the 1991 independent film My Own Private Idaho); and Bernardo Bertolucci (in the 1993 film Little Buddha). Referring to his 1991 film releases, The New York Times' critic, Janet Maslin, praised Reeves' versatility, saying that he \"displays considerable discipline and range. He moves easily between the buttoned-down demeanor that suits a police procedural story and the loose-jointed manner of his comic roles.\" A repeated theme in roles he has portrayed is that of saving the world, including the characters of Ted Logan, Buddha, Neo, Johnny Mnemonic, John Constantine and Klaatu.",
+        "image": "keanureeves.jpg"
+    }, {
+        "id": 9,
+        "name": "Kaley Cuoco",
+        "bio": "Kaley Cuoco is an American film and television actress and singer. She is best known for her roles as Bridget Hennessy on the sitcom 8 Simple Rules, Billie Jenkins on the supernatural drama Charmed, and Penny on the sitcom The Big Bang Theory.",
+        "image": "kaleycuoco.jpg"
+    }, {
+        "id": 10,
+        "name": "Angelina Jolie ",
+        "bio": "Angelina Jolie is an American actress. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards. Jolie has promoted humanitarian causes throughout the world, and is noted for her work with refugees as a Goodwill Ambassador for the United Nations High Commissioner for Refugees (UNHCR). She has been cited as one of the world's most beautiful women and her off-screen life is widely reported. Though she made her screen debut as a child alongside her father Jon Voight in the 1982 film Lookin' to Get Out, Jolie's acting career began in earnest a decade later with the low-budget production Cyborg 2 (1993). Her first leading role in a major film was in Hackers (1995). She starred in the critically acclaimed biographical films George Wallace (1997) and Gia (1998), and won an Academy Award for Best Supporting Actress for her performance in the drama Girl, Interrupted (1999). Jolie achieved wider fame after her portrayal of video game heroine Lara Croft in Lara Croft: Tomb Raider (2001), and since then has established herself as one of the best-known and highest-paid actresses in Hollywood. She has had her biggest commercial successes with the action-comedy Mr. & Mrs. Smith (2005) and the animated film Kung Fu Panda (2008). Divorced from actors Jonny Lee Miller and Billy Bob Thornton, Jolie currently lives with actor Brad Pitt, in a relationship that has attracted worldwide media attention. Jolie and Pitt have three adopted children, Maddox, Pax, and Zahara, as well as three biological children, Shiloh, Knox, and Vivienne.",
+        "image": "angelinajolie.jpg"
+    }],
+    "upcoming": [
+        {
+            "id": 1,
+            "title": "Little Women",
+            "releaseDate": "December 25, 2019",
+            "description": "Four sisters come of age in America in the aftermath of the Civil War.",
+            "image": "lilwoman",
+            "rating": 4.0,
+            "genres": ["Drama", "Romance"],
+            "runtime": "2h 15m"
+        },  {
+            "id": 2,
+            "title": "1917",
+            "releaseDate": "December 10, 2019",
+            "description": "At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake's own brother among them.",
+            "image": "1917",
+            "rating": 3.95,
+            "genres": ["War", "Drama", "History"],
+            "runtime": "1h 59m"
+        },  {
+            "id": 3,
+            "title": "The Grudge",
+            "releaseDate": "January 3, 2020",
+            "description": "A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.",
+            "image": "thegrudge",
+            "rating": 0,
+            "genres": ["Horror"],
+            "runtime": "Not Available"
+        },  {
+            "id": 4,
+            "title": "Just Mercy",
+            "releaseDate": "December 25, 2019",
+            "description": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+            "image": "justmercy",
+            "rating": 5,
+            "genres": ["Drama"],
+            "runtime": "2h 16m"
+        },  {
+            "id": 5,
+            "title": "The Song of Names",
+            "releaseDate": "December 25, 2019",
+            "description": "A man searching for his childhood best friend — a Polish violin prodigy orphaned in the Holocaust — who vanished decades before on the night of his first public performance.",
+            "image": "thesongofnames",
+            "rating": 0,
+            "genres": ["Drama"],
+            "runtime": "1h 53m"
+        },  {
+            "id": 6,
+            "title": "Underwater",
+            "releaseDate": "January 10, 2020",
+            "description": "After an earthquake destroys their underwater station, six researchers must navigate two miles in the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.",
+            "image": "underwater",
+            "rating": 0,
+            "genres": ["Action", "Horror"],
+            "runtime": "Not Available"
+        },  {
+            "id": 7,
+            "title": "The Informer",
+            "releaseDate": "January 10, 2020",
+            "description": "An ex-convict working undercover intentionally gets himself incarcerated again in order to infiltrate the mob at a maximum security prison.",
+            "image": "theinformer",
+            "rating": 3.25,
+            "genres": ["Crime", "Drama"],
+            "runtime": "1h 53m"
+        },  {
+            "id": 8,
+            "title": "Garrison 7: The Fallen",
+            "releaseDate": "December 31, 2019",
+            "description": "When an elite special forces commander accidentally uncovers an insidious military conspiracy, his family is brutally murdered. Now the target of an intergalactic manhunt, they will stop at nothing to silence him.",
+            "image": "garrison7",
+            "rating": 0,
+            "genres": [],
+            "runtime": "Not Available"
+        },{
+            "id": 1,
+            "title": "Star Wars: The Rise of Skywalker",
+            "releaseDate": "December 16, 2019",
+            "description": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "image": "starwars",
+            "rating": 3.4,
+            "genres": ["Action", "Adventure", "Sci-fi"],
+            "runtime": "2h 22m"
+        },{
+            "id": 2,
+            "title": "Jumanji: The Next Level ",
+            "releaseDate": "December 13, 2019",
+            "description": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+            "image": "jumanji",
+            "rating": 3.4,
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+            "runtime": "2h 3m"
+        }, {
+            "id": 3,
+            "title": "Frozen II",
+            "releaseDate": "November 22, 2019",
+            "description": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+            "image": "frozen2",
+            "rating": 3.5,
+            "genres": ["Adventure", "Music", "Animation", "Family"],
+            "runtime": "1h 44m"
+        }, {
+            "id": 4,
+            "title": "Bombshell",
+            "releaseDate": "December 13, 2019",
+            "description": "Based on the real scandal, BOMBSHELL is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+            "image": "bombshell",
+            "rating": 3.2,
+            "genres": ["Drama"],
+            "runtime": "1h 48m"
+        }, {
+            "id": 5,
+            "title": "Code 8",
+            "releaseDate": "December 13, 2019",
+            "description": "In Lincoln City, some inhabitants have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Connor, a construction worker with powers, involves with a criminal gang to help his ailing mother. (Based on the short film “Code 8,” 2016.)",
+            "image": "code_8",
+            "rating": 3.4,
+            "genres": ["Sci-fi", "Drama", "Thriller", "Crime", "Action"],
+            "runtime": "1h 39m"
+        }, {
+            "id": 6,
+            "title": "Spies in Disguise",
+            "releaseDate": " December 4, 2019",
+            "description": "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
+            "image": "spiesindisguise",
+            "rating": 4.0,
+            "genres": ["Animation", "Adventure", "Action"],
+            "runtime": "2h 42m"
+        }, {
+            "id": 7,
+            "title": "Ip Man 4: The Finale",
+            "releaseDate": "December 25, 2019",
+            "description": "Ip Man 4 is an upcoming Hong Kong biographical martial arts film directed by Wilson Yip and produced by Raymond Wong. It is the fourth in the Ip Man film series based on the life of the Wing Chun grandmaster of the same name and features Donnie Yen reprising the role. The film began production in April 2018 and ended in July the same year.",
+            "image": "ipman4",
+            "rating": 0,
+            "genres": ["Action", "Drama", "History"],
+            "runtime": "-"
+        }, {
+            "id": 8,
+            "title": "Uncut Gems",
+            "releaseDate": "August 30, 2019",
+            "description": "Howard Ratner, a charismatic New York City jeweler always on the lookout for the next big score, makes a series of high-stakes bets that could lead to the windfall of a lifetime.",
+            "image": "uncutgems",
+            "rating": 3.85,
+            "genres": ["Crime", "Thriller", "Commedy"],
+            "runtime": "1h 29m"
+        }, {
+            "id": 9,
+            "title": "Knives Out",
+            "releaseDate": "November 27, 2019",
+            "description": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "image": "knivesout",
+            "rating": 4,
+            "genres": ["Mystery", "Thriller", "Comedy"],
+            "runtime": "2h 10m"
+        }, {
+            "id": 10,
+            "title": "Cats",
+            "releaseDate": "December 16, 2019",
+            "description": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+            "image": "cats",
+            "rating": 2.75,
+            "genres": ["Music", "Drama", "Fantasy", "Comedy"],
+            "runtime": "2h 49m"
+        }
+    ]
+}
